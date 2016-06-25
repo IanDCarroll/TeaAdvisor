@@ -3,4 +3,11 @@
     <string name="action_settings">Settings</string>
     <string name="find_tea">Find Tea!</string>
     <string name="Types"></string>
+    <string-array name="tea_colors">
+        <item>White</item>
+        <item>Green</item>
+        <item>Oolong</item>
+        <item>Black</item>
+        <item>Pu-erh</item>
+    </string-array>
 </resources>
