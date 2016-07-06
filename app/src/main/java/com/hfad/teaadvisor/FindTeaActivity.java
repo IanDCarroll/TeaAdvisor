@@ -16,9 +16,13 @@ public class FindTeaActivity extends Activity {
     }
     //call when user taps the button
     public void onClickFindTea(View view) {
+        //get a reference to textview
         TextView types = (TextView) findViewById(R.id.types);
-        types.setText("Gup of gea");
+        //get a reference to the spinner
         Spinner color = (Spinner) findViewById(R.id.color);
-        String.valueOf(color.getSelectedItem());
+        //get the selected item in the spinner
+        String teaType = String.valueOf(color.getSelectedItem());
+        //Display the selected item
+        types.setText(teaType);
     }
 }

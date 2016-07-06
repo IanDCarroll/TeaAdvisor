@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="59722cd744d3410981b03e4320475a8d89370593">
-        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0838391fc4bf34252f6a7f00d96cf3b72c1a507/classes.dex" />
-    </item>
-    <item
         jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
@@ -23,18 +16,39 @@
         <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_cb1e0d5004c61f8afa6ae05a6228e27c7f01e686/classes.dex" />
     </item>
     <item
-        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c9bbe710e206b8855a1226687eabf4631f6ce992">
-        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f6a3fcb9ffe04ac7767b677b8cc03951b2b18947/classes.dex" />
-    </item>
-    <item
         jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
         <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_61138594124a7c98ecaaec5f43726bf2c81c0b49/classes.dex" />
+    </item>
+    <item
+        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_cd956ad4f12066de06e81f6ec5a5fb1dbd646669/classes.dex" />
+    </item>
+    <item
+        jar="/home/ian/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_316bfb4de79ed53da6355ac5c1674bc57b362118/classes.dex" />
+    </item>
+    <item
+        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cdc4d7698eae401959b65eb72c36a8ece58ef2d6">
+        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0838391fc4bf34252f6a7f00d96cf3b72c1a507/classes.dex" />
+    </item>
+    <item
+        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d69808bd58af7d6b0925bf95511922a00823ccfc">
+        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f6a3fcb9ffe04ac7767b677b8cc03951b2b18947/classes.dex" />
     </item>
     <item
         jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
@@ -56,20 +70,6 @@
         revision="24.0.0"
         sha1="894922f67adeaaef51f077a29e315da21a3382d3">
         <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_702dc1b39f4b612b15a91f98725ac4926f9f8d9d/classes.dex" />
-    </item>
-    <item
-        jar="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_cd956ad4f12066de06e81f6ec5a5fb1dbd646669/classes.dex" />
-    </item>
-    <item
-        jar="/home/ian/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/home/ian/AndroidStudioProjects/TeaAdvisor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_316bfb4de79ed53da6355ac5c1674bc57b362118/classes.dex" />
     </item>
 
 </items>
